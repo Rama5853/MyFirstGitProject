@@ -1,0 +1,2 @@
+﻿This is my first Git learning project.
+I am learning Git commit and GitHub
